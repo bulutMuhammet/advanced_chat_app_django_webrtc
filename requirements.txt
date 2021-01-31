@@ -1,0 +1,4 @@
+django
+redis
+channels_redis
+
