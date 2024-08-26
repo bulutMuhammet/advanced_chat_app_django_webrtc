@@ -1,3 +1,6 @@
+YOUTUBE TUTORIAL: https://www.youtube.com/watch?v=FoAyjLTrlak&list=PLyss3giYIrUzBFFUi9lDe-Ae0mYCIX54s
+
+
 [Turkish]
 
 Django'nun Channels Kütüphanesi ve JavaScript'in PeerJS kütüphanesiyle yazmış olduğum chat uygulaması. Yazılı iletişim kısmında Django Channels ve WebSocketler kullanılıyor. Görüntülü ve sesli iletişim kısmında ise PeerJS ve WebRTC kullanılıyor. Uygulama ile görsel ve ses dosyası da paylaşabilirken ses kaydedip karşı tarafa yollamak da mümkün.
